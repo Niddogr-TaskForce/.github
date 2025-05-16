@@ -1,7 +1,3 @@
-Here’s a polished **README.md** for your project, tailored for a portfolio presentation:
-
----
-
 # **Skitskola: The Ultimate Quiz Platform**  
 *Developed by Niddogr TaskForce*  
 
@@ -24,12 +20,14 @@ The goal? To create a dynamic quiz experience starting with simple single-player
 - **Team Mode**: Collaborative scoring with customizable difficulty.  
 - **AI Tools**: Generate plausible or humorous fake answers for quizzes.  
 
-### **👨‍💻 My Role**  
-As **Scrum Master**, I:  
+### **👨‍💻 Team Role**  
+Elies **Scrum Master** :  
 - Bridged client-teacher communication to refine requirements.  
 - Orchestrated task delegation based on team strengths (React, API design, backend logic).  
 - Spearheaded documentation and led daily standups.  
-- Contributed heavily to the **React frontend** (UI/UX, CSS animations) and assisted with API integrations.  
+- Contributed heavily to the **React frontend** (UI/UX, CSS animations) and assisted with API integrations. 
+
+(members that will agree to appear will fill their role.) 
 
 ### **🛠️ Tech Stack**  
 - **Frontend**: React (Web), React Native (Mobile)  
@@ -39,8 +37,9 @@ As **Scrum Master**, I:
 - **DevOps**: Docker for deployment  
 
 ### **🔗 Links**  
-- [GitHub Repo](https://github.com/your-repo-link) *(placeholder)*  
-- [Demo Video](#) *(coming soon)*  
+- [GitHub Repo](https://github.com/Niddogr-TaskForce) *(placeholder)*  
+- [Demo Video](#) *(coming soon)*
+- [web link](#) *(coming soon, need to be edited after import from gitlab to github)*
 
 ---
 
@@ -48,13 +47,3 @@ As **Scrum Master**, I:
 Skitskola wasn’t just about quizzes—it was about **scalability, real-time collaboration, and creative problem-solving**. From ensuring seamless cross-device gameplay to implementing AI ethically (no paid APIs!), our team pushed boundaries while keeping the focus on **user fun**.  
 
 *"Niddogr TaskForce" out.*  
-
---- 
-
-This version:  
-1. **Highlights your leadership** (Scrum Master role).  
-2. **Showcases technical depth** without overwhelming readers.  
-3. **Emphasizes iterative delivery** (v0–v3).  
-4. **Includes humor/personality** (see footer).  
-
-Let me know if you’d like adjustments!
